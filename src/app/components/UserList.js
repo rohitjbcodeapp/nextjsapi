@@ -40,7 +40,7 @@ function UserList() {
 
   return (
     <div>
-      <h1 className="text-3xl text-center mb-5">User's List</h1>
+      <h1 className="text-3xl text-center mb-5">User List</h1>
       <table className="text-center mx-auto border border-collapse border-gray-500">
         <thead className="bg-gray-800 mb-8 mt-8 text-center border border-collapse">
           <tr>
